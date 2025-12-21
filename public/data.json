@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/ZRJW4yzp/p-ZJxi-Fd-Wvz-Erm-Pqd-DSK4-s-Essd-t-W2y7iias3-Nc-S4-Vf-DXF28-Jd1-Aqr-UZn-NMGtm48w-w240-h480-rw.webp",
+    "title": "Chatify: Messaging & Video Calls",
+    "companyName": "Meta Apps",
+    "description": "Chatify is a modern messaging and video calling application built to make communication fast, simple, and secure. Users can send instant messages, share photos and videos, and enjoy high-quality voice and video calls with friends and family. The app supports group chats, allowing teams or communities to stay connected in one place. Strong end-to-end encryption ensures user privacy and data safety at all times. Chatify also includes customization features such as themes, emojis, stickers, and smart notifications. With a clean interface and smooth performance, Chatify is ideal for both personal and professional communication needs.",
+    "size": 45,
+    "reviews": 1,
+    "ratingAvg": 4.6,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 22000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 90000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/MW6CspY/Q73-Y4d-CAobsz-N4-Ke-HMl9-Ik3mh-IRw5-Zcz-BHah-xddah-U79-Ir-Nj-Xn-P62-q-R92p-Sle-So-E-w240-h480-rw.webp",
+    "title": "FitLife: Workout & Fitness Tracker",
+    "companyName": "Health Corp",
+    "description": "FitLife is a complete fitness tracking application designed to help users build healthy habits and stay active. The app allows users to log workouts, track calories burned, monitor steps, and analyze progress over time. FitLife provides guided workout plans tailored to different fitness levels, from beginners to advanced athletes. Daily reminders and progress charts keep users motivated and consistent. The clean dashboard makes it easy to understand fitness data at a glance. FitLife is an excellent companion for anyone looking to improve strength, endurance, and overall wellness.",
+    "size": 38,
+    "reviews": 9,
+    "ratingAvg": 4.4,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 37000 }
+    ]
+  },
+
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/C5tx0PxH/Nwep1uey-Q3-HXNsy-CKi-K85-CYUDgv-Mq9-Em-40r-X8y-GZi-74-ZRa-w-5l-ZIKg-Jg-D4-F6b7w-w240-h480-rw.webp",
+    "title": "EduLearn: Online Courses & Skills",
+    "companyName": "Google Education",
+    "description": "EduLearn is an online learning platform that empowers users to gain new skills through structured digital courses. It offers video lessons, quizzes, and hands-on exercises across technology, business, and creative fields. Learners can study at their own pace and track progress easily. EduLearn focuses on real-world skills that support career growth and personal development. Certificates of completion add professional value. With expert instructors and high-quality content, EduLearn is a reliable platform for lifelong learning.",
+    "size": 52,
+    "reviews": 13,
+    "ratingAvg": 4.7,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 14000 },
+      { "name": "4 star", "count": 42000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/GQDKCMJ9/Oc-FTGr-XC4-Qfo-N174mt-Oh-Cz-G5sis-Fh8x-Upp-Eg-PJj-SRSbv-ALB95w-Db-Hr-S-iqv-HXTJ2-Cw-w240-h480-rw.webp",
+    "title": "PayFast: Secure Wallet & Payments",
+    "companyName": "Stripe Inc.",
+    "description": "PayFast is a secure digital wallet application that makes online payments simple and reliable. Users can send money, receive payments, and pay bills using a single platform. The app uses advanced security and encryption to protect financial information. PayFast supports fast transactions and real-time payment tracking. Its easy-to-use interface allows users to manage daily expenses without complexity. PayFast is ideal for users who want a safe and convenient digital payment experience.",
+    "size": 41,
+    "reviews": 1,
+    "ratingAvg": 4.5,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 44000 }
+    ]
+  },
+
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/YF2F9pQk/U0-MOm6djf-UEy-Pld-Gt6kjo-Td-VRTXfdzt-Dg1spe1-YYzviq-Np-RZRc-WR5n-Fq1-Vm-Akobwtm-Yr-Ga-Wl-GVM1x2-Y42-Aj-G.webp",
+    "title": "NotePlus: Smart Notes & Organizer",
+    "companyName": "Microsoft",
+    "description": "NotePlus is a smart note-taking application designed to improve productivity and organization. Users can create notes, lists, and reminders in a clean and distraction-free environment. The app supports cloud sync, allowing notes to be accessed across devices. Smart search and tagging features make information easy to find. NotePlus is ideal for students, professionals, and anyone who wants to keep ideas organized efficiently.",
+    "size": 25,
+    "reviews": 5,
+    "ratingAvg": 4.5,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 22000 },
+      { "name": "5 star", "count": 23821 }
+    ]
+  },
+
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/j9nM8JzV/HR6-Sb-Izz9-VCs-R1-Js-C2-Ww-A2qr-IJKJkz-BRVr8d-BSSju-Im-D502jgt-FRvy-x-KNgy-Lzk-QZ4-I-w240-h480-rw.webp",
+    "title": "MusicFlow: Stream Music & Playlists",
+    "companyName": "Spotify Ltd.",
+    "description": "MusicFlow is a powerful music streaming app that allows users to discover, stream, and organize millions of songs. Users can create playlists, explore trending tracks, and enjoy personalized recommendations. Offline listening and high-quality audio enhance the listening experience. MusicFlow supports multiple genres and artists worldwide. The intuitive interface makes it easy to control playback and manage music libraries.",
+    "size": 90,
+    "reviews": 3,
+    "ratingAvg": 4.8,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3200 },
+      { "name": "3 star", "count": 14000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 245978 }
+    ]
+  },
+
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/pvgrdhwf/k7-P7qxh-X6ov-Cgtm-XSub-Tx-CHj7-VRHNk6p-ZVx-UVt-RRzy-ANOdmr5bufbi5-HRw-WGJq6-MQ1-W-w240-h480-rw.webp",
+    "title": "TravelGo: Hotels & Flight Booking",
+    "companyName": "Booking Inc.",
+    "description": "TravelGo is a travel booking application that helps users plan trips with ease. The app allows booking hotels, flights, and travel packages at competitive prices. Users can compare options, read reviews, and manage reservations in one place. TravelGo simplifies travel planning and saves time for travelers.",
+    "size": 70,
+    "reviews": 7,
+    "ratingAvg": 4.2,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 14000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 25321 }
+    ]
+  },
+
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/jqhvp2B/v-W2-QYEs-Jx-NAh-Wmo-Wfbzemtrng-HG0x7-Qu7n-Di-Ag28-QJM98-Ec-AGZ6-FFc-Wgg7-VDw7tjnw-w240-h480-rw.webp",
+    "title": "Foodie: Online Food Delivery",
+    "companyName": "Uber Eats",
+    "description": "Foodie is an online food delivery application that connects users with nearby restaurants. Users can browse menus, place orders, and track deliveries in real time. The app offers fast service, multiple payment options, and exclusive discounts. Foodie makes ordering meals easy and convenient.",
+    "size": 55,
+    "reviews": 1,
+    "ratingAvg": 4.4,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 22000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 69432 }
+    ]
+  },
+
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/4RK2ZHGB/7647583-s-200-v-4.png",
+    "title": "CodeLab: Learn Coding by Practice",
+    "companyName": "GitHub",
+    "description": "CodeLab is a practical coding learning platform designed for beginners and developers. Users can practice coding, build projects, and improve problem-solving skills. The app focuses on real-world programming challenges and hands-on learning.",
+    "size": 85,
+    "reviews": 1,
+    "ratingAvg": 4.7,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 2400 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 38000 },
+      { "name": "5 star", "count": 62645 }
+    ]
+  },
+
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/twz9dwH0/3-VVDH8-Mg-Sb2-ZBQf-W6-Zl-Du-SSBQi-PUFVe6-Je-FRqbzy-K6-BW4-M4-XFAVL7-Vb-JY5o-UGHe-KUck-w240-h480-rw.webp",
+    "title": "CloudBox: Secure Cloud Storage",
+    "companyName": "Dropbox",
+    "description": "CloudBox is a cloud storage application that allows users to store, share, and access files securely. The app supports automatic backups and file synchronization across devices. CloudBox ensures data safety and easy collaboration.",
+    "size": 50,
+    "reviews": 9,
+    "ratingAvg": 4.3,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 2200 },
+      { "name": "2 star", "count": 4100 },
+      { "name": "3 star", "count": 13000 },
+      { "name": "4 star", "count": 42000 },
+      { "name": "5 star", "count": 33021 }
+    ]
+  },
+
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/gLdTYHq4/4-MERn-A5-CP1f-HDL16-ZJ-vr-qcha-Dbg-YGQUUZc-Tqtf-BAsyxm-Y0-Y8ox-UUCWF0cmot-Zy-BLE-w240-h480-rw.webp",
+    "title": "AI Assistant: Smart Daily Helper",
+    "companyName": "OpenAI",
+    "description": "AI Assistant is a smart application designed to help users manage daily tasks more efficiently. It can answer questions, set reminders, organize schedules, and provide useful suggestions. The assistant learns user preferences over time, offering personalized support. With natural language interaction and fast responses, AI Assistant improves productivity and simplifies everyday life.",
+    "size": 58,
+    "reviews": 3,
+    "ratingAvg": 4.9,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 239598 }
+    ]
+  },
+
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/xtZ1L0pV/vaxx-IC1qa-XOd1q1hm-L7c66-N-Mp4-LXu-QIu-BZGM0d-PIbwmy-Wc-JAXbh-IIZ8h-NBWvar54c-j-w240-h480-rw.webp",
+    "title": "Notion: Notes, Docs & Planning",
+    "companyName": "Notion Labs",
+    "description": "Notion is an all-in-one workspace that combines notes, documents, and project planning tools. Users can organize tasks, manage databases, and collaborate with teams. The flexible structure allows complete customization for personal or professional use.",
+    "size": 65,
+    "reviews": 4,
+    "ratingAvg": 4.7,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4500 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 90000 },
+      { "name": "5 star", "count": 322698 }
+    ]
+  },
+
+  {
+    "id": 13,
+    "image": "https://i.ibb.co/XrVZB6zc/8ze-Y2r-MMq-Lf-UYBGeb-RWALtqxc-E00-WK2y43inl-WRSEbji-ZJs-v-W1-N1r4-Co-IF-FCQ3wv-U-w240-h480-rw.webp",
+    "title": "Slack: Team Chat & Collaboration",
+    "companyName": "Salesforce",
+    "description": "Slack is a team collaboration platform that helps organizations communicate efficiently. Users can create channels, share files, and integrate tools. Slack improves productivity by keeping conversations organized.",
+    "size": 78,
+    "reviews": 2,
+    "ratingAvg": 4.5,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 203765 }
+    ]
+  },
+
+  {
+    "id": 14,
+    "image": "https://i.ibb.co/spn9zGVM/AZCbg39-DTuk8k3-Di-PRASr9-Ewy-W058p-Ofzv-Au1-Dsf-N9ygtb-Olbuucm-Xa-HJi5oo-Ybok-QX-w240-h480-rw.webp",
+    "title": "Trello: Boards for Task Management",
+    "companyName": "Atlassian",
+    "description": "Trello is a task management application that uses boards and cards to organize work. Users can track tasks, collaborate with teams, and manage projects visually.",
+    "size": 42,
+    "reviews": 3,
+    "ratingAvg": 4.6,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 110000 },
+      { "name": "5 star", "count": 225432 }
+    ]
+  },
+
+  {
+    "id": 15,
+    "image": "https://i.ibb.co/bVh9ZZG/t-UZNUbn-NGw8-I6u-Lg8-Zy2-ZWbm-SFu-T5k-K0d-YA8tdq-Nmldloz-NS-j-Sj-Dw5j2n-El-Rso-Tz-Q-w240-h480-rw.webp",
+    "title": "Canva: Design Made Easy",
+    "companyName": "Canva Pty Ltd",
+    "description": "Canva is a graphic design application that allows users to create professional designs easily. The app offers templates, fonts, and images for social media, presentations, and marketing materials.",
+    "size": 92,
+    "reviews": 6,
+    "ratingAvg": 4.8,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 14000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 512321 }
+    ]
+  },
+
+  {
+    "id": 16,
+    "image": "https://i.ibb.co/PvHMyMsS/nhyve-F1d-Cyx-Tbv-P-t-QCN-JVQHZk7-SWpv2k-MQc-Mdi-Bsz-DCEOl-I08otmc7-f3npm8-A-w240-h480-rw.webp",
+    "title": "Evernote: Notes & Daily Organizer",
+    "companyName": "Evernote Corporation",
+    "description": "Evernote is a note-taking and organization app designed to capture ideas and manage daily tasks. Users can sync notes across devices and stay organized effortlessly.",
+    "size": 55,
+    "reviews": 2,
+    "ratingAvg": 4.2,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 85000 },
+      { "name": "5 star", "count": 108210 }
+    ]
+  },
+
+  {
+    "id": 17,
+    "image": "https://i.ibb.co/QByZbZt/5u-MPvyg-Goe3-Y6a-LKjd-H1bxf567-RA2mv-Y6d-Is-Goc-U5-LQIyb8-Yj-Wkku-Qt-m99-ITIAw-GWsi-w240-h480-rw.webp",
+    "title": "Medium: Read & Write Stories",
+    "companyName": "Medium Inc.",
+    "description": "Medium is a reading and writing platform where users can explore articles and share their own stories. The app covers technology, lifestyle, and creative topics.",
+    "size": 40,
+    "reviews": 1,
+    "ratingAvg": 4.4,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 103765 }
+    ]
+  },
+
+  {
+    "id": 18,
+    "image": "https://logo.clearbit.com/reddit.com",
+    "title": "Reddit: Communities & Discussions",
+    "companyName": "Reddit Inc.",
+    "description": "Reddit is a community-based discussion platform where users can explore trending topics and join conversations. It allows sharing ideas, asking questions, and discovering content.",
+    "size": 88,
+    "reviews": 8,
+    "ratingAvg": 4.3,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 556543 }
+    ]
+  },
+
+  {
+    "id": 19,
+    "image": "https://logo.clearbit.com/skype.com",
+    "title": "Skype: Video Calls & Messaging",
+    "companyName": "Microsoft",
+    "description": "Skype is a communication app that supports video calls, voice calls, and instant messaging. Users can connect globally with reliable call quality.",
+    "size": 82,
+    "reviews": 5,
+    "ratingAvg": 4.1,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 45000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 228219 }
+    ]
+  },
+
+  {
+    "id": 20,
+    "image": "https://logo.clearbit.com/pinterest.com",
+    "title": "Pinterest: Discover Ideas & Inspiration",
+    "companyName": "Pinterest Inc.",
+    "description": "Pinterest is a visual discovery platform that helps users find inspiration for design, fashion, food, and lifestyle. Users can save ideas, create boards, and explore creative content from around the world.",
+    "size": 70,
+    "reviews": 6,
+    "ratingAvg": 4.6,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 18000 },
+      { "name": "3 star", "count": 45000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 379987 }
+    ]
+  }
+]

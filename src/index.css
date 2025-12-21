@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.button{
+    @apply btn bg-linear-to-tr from-[#632EE3] to-[#9F62F2] px-5 text-lg text-white font-bold
+}
+.short-overview{
+    @apply flex flex-col justify-center items-center
+}
