@@ -5,9 +5,23 @@ import { Github } from "lucide-react";
 
 const Navbar = () => {
     const links = <>
-    <Link to={'/'}><li className="m-2">Home</li></Link>
-    <Link to={'/allApps'}><li className="m-2">Apps</li></Link>
-    <Link to={'/installation'}><li className="m-2">Installation</li></Link>
+    <ul className="menu menu-horizontal px-1 text-gray-700">
+           <li>
+              <NavLink 
+              className={({isActive})=>isActive?'active':''}
+              to="/">Home</NavLink>
+            </li>
+            <li>
+              <NavLink 
+              className={({isActive})=>isActive?'active':''}
+              to="/allapps">Apps</NavLink>
+            </li>
+            <li>
+              <NavLink 
+              className={({isActive})=>isActive?'active':''}
+              to="/installation">Installation</NavLink>
+            </li>
+          </ul>
     </>
   return (
     <div>
