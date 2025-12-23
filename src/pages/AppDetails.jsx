@@ -33,21 +33,13 @@ const AppDetails = () => {
     description,
   } = app || {};
 
-  console.log(size)
+  console.log(size);
 
-  // // generate chart data
-  // const totalsByCategory  = {}
-  // apps.forEach(app =>{
-  //   const category = app.category;
-
-  // totalsByCategory[category] = (totalsByCategory[category] || 0) + ratings.map(rating =>rating)
-  // })
-  // const chartData = Object.keys(totalsByCategory).map(category =>({
-  //   category,
-  //   total:totalsByCategory[category],
-  // }))
-  // console.log(chartData)
-
+  // generate chart data
+  const chartData = app?.ratings?.map(r=>({
+    name:r.name,
+    count:r.count,
+  }))
   return (
     <div>
       <div className="card flex-col lg:flex-row card-side bg-base-100 shadow-sm">
@@ -81,34 +73,36 @@ const AppDetails = () => {
             </div>
           </div>
           <div className="card-actions">
-            <button onClick={() =>updatedLest(app)} className="btn bg-[#00D390] text-white font-semibold">
+            <button
+              onClick={() => updatedLest(app)}
+              className="btn bg-[#00D390] text-white font-semibold"
+            >
               Install now ({size}MB)
             </button>
           </div>
         </div>
       </div>
+      <div className="divider"></div>
       {/* chart */}
-      {/* <div>
+      <div>
         <div className="space-y-3">
-        <h3 className="text-xl font-semibold">Wishlist Summery</h3>
-        <div className="bg-base-100 border rounded-xl p-4 h-80">
-          <ResponsiveContainer width="100%" height="100%">
-            <BarChart 
-            data={chartData}
-            >
-              <CartesianGrid strokeDasharray="3 3" />
-              <XAxis dataKey="category" />
-              <YAxis />
-              <Tooltip />
-              <Legend />
-              <Bar dataKey="total" fill="#82ca9d" />
-            </BarChart>
-          </ResponsiveContainer>
+          <h3 className="text-xl font-semibold">Ratings</h3>
+          <div className="bg-base-100 border rounded-xl p-4 h-80">
+            <ResponsiveContainer width="100%" height={300}>
+              <BarChart data={chartData}>
+                <CartesianGrid strokeDasharray="3 3" />
+                <XAxis dataKey="name" />
+                <YAxis />
+                <Tooltip />
+                <Legend />
+                <Bar dataKey="count" fill="#82ca9d" />
+              </BarChart>
+            </ResponsiveContainer>
+          </div>
         </div>
       </div>
-      </div> */}
       <div className="divider"></div>
-      <div className="divider"></div>
+
       <div>
         <h2 className="text-2xl font-semibold">Description</h2>
         <p className="text-[#627382]">{description}</p>

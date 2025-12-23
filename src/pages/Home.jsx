@@ -1,25 +1,26 @@
 import React from "react";
-import { Link, useLoaderData } from "react-router";
+import { Link } from "react-router";
 import playStore from "../assets/app downloaden uit de play store.png";
 import appStore from "../assets/App_Store_(iOS)-Logo.wine.svg";
 import heroImg from "../assets/hero.png";
 import AppCard from "../components/AppCard";
+import useApps from "../Hooks/useApps";
+import Skeleton from "../components/Skeleton";
 
 const Home = () => {
-
-  const apps = useLoaderData() || [];
-  console.log(apps)
-
-  const featuredApp = apps.slice(0,8)
-  console.log(featuredApp)
+  // const apps = useLoaderData() || [];
+  // console.log(apps)
+  const { apps, loading } = useApps();
+  const featuredApp = apps.slice(0, 8);
+  console.log(featuredApp);
 
   return (
     <div>
       <div>
         <div className="text-center">
           <h1 className="text-4xl font-bold">
-            We Build <br /><span className="text-[#632EE3]">Productive</span>{" "}
-            Apps
+            We Build <br />
+            <span className="text-[#632EE3]">Productive</span> Apps
           </h1>
           <p className="text-[#627382] mt-5">
             AtHERO.IO, we craft innovative apps designed to make everyday life
@@ -76,17 +77,23 @@ const Home = () => {
         <div className="text-center mt-5">
           <h1 className="text-3xl font-bold">Trending Apps</h1>
           <p>Explore All Trending Apps on the Market developed by us</p>
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mt-5">
-            {
-                featuredApp.map((app)=>(
-                    <AppCard key={app.id} app={app} />
-                ))
-            }
+          <div>
+            {loading ? (
+              <Skeleton />
+            ) : (
+              <div className="cards">
+                {featuredApp.map((app) => (
+                  <AppCard key={app.id} app={app} />
+                ))}
+              </div>
+            )}
           </div>
         </div>
       </div>
       <div className="text-center mt-5">
-        <Link to="allApps" className="button">Show all</Link>
+        <Link to="allApps" className="button">
+          Show all
+        </Link>
       </div>
     </div>
   );

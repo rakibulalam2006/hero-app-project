@@ -1,12 +1,14 @@
 import React, { useState } from "react";
-import { useLoaderData } from "react-router";
+// import { useLoaderData } from "react-router";
 import AppCard from "../components/AppCard";
+import useApps from "../Hooks/useApps";
 
 const AllApps = () => {
   const [search, setSearch] = useState("");
 
-  const apps = useLoaderData() || [];
-  console.log(apps);
+  // const apps = useLoaderData() || [];
+  // console.log(apps);
+   const { apps, loading } = useApps();
 
   // search
   const term = search.trim().toLocaleLowerCase() || "";
@@ -37,13 +39,17 @@ const AllApps = () => {
           />
         </label>
       </div>
-      <div>
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mt-5">
-          {searchedApps.map((app) => (
-            <AppCard key={app.id} app={app} />
-          ))}
-        </div>
-      </div>
+       <div>
+            {loading ? (
+              <Skeleton />
+            ) : (
+              <div className="cards">
+                {searchedApps.map((app) => (
+                  <AppCard key={app.id} app={app} />
+                ))}
+              </div>
+            )}
+          </div>
     </div>
   );
 };
